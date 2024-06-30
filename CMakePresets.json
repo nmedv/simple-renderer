@@ -1,0 +1,9 @@
+{
+	"version": 4,
+	"include": [
+		"cmake/presets/msvc.json",
+		"cmake/presets/clang.json",
+		"cmake/presets/clang-vs.json",
+		"cmake/presets/gcc.json"
+	]
+}
